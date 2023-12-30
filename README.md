@@ -7,6 +7,7 @@
 ```
 ---
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/NirisYeot.svg?style=social&label=Follow%20%40NirisYeot)](https://twitter.com/NirisYeot)
+[![Personal Blog](https://img.shields.io/badge/🌐My%20Blog%20-f9f871?style=for-the-badge)](https://sirin.dev/)
+[![twitter](https://img.shields.io/badge/My%20Twitter%20-494738?style=for-the-badge&logo=twitter)](https://twitter.com/NirisYeot)
 <br />
 
